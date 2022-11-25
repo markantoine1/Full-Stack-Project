@@ -10,7 +10,7 @@ function App() {
             <h1>DSMeta</h1>
             <p>
               Desenvolvido por
-              <a href="https://www.linkedin.com/in/mark-antoine/">Mark Antoine</a>
+              <a href="https://www.linkedin.com/in/mark-antoine/"> M̲a̲r̲k̲ ̲A̲n̲t̲o̲i̲n̲e̲</a>
             </p>
         </div>
     </header>
