@@ -11,6 +11,10 @@ function App() {
             <p>
               Desenvolvido por Mark Antoine
               <br/>
+              (O conteúdo não está mais disponível devido a descontinuação do plano gratuito por parte do Heroku, estou trabalhando para hospedar em outro local. Enquanto isso, pode ser acessado o código fonte e imagens da aplicação funcionando.)
+              <br/>
+              Demonstração do site, enquanto a hospedagem funcionava: <a href="https://prnt.sc/j4_saIDO3YBZ" target={'_blank'}><b>Clique aqui</b></a>
+              <br/>
               Demonstração de notificação: <a href="https://prnt.sc/gBLkk40_Yq9c" target={'_blank'}><b>Clique aqui</b></a>
               <br />
               <a id='media' href="https://www.linkedin.com/in/mark-antoine/" target={'_blank'}><b>Linkedin</b> </a>
