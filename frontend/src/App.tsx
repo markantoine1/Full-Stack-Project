@@ -15,6 +15,8 @@ function App() {
               <SalesCard/>
           </div>
         </section>
+        <a id='media' href="https://www.linkedin.com/in/mark-antoine/" target={'_blank'}><b>Linkedin</b> </a>
+        <a id='media' href="https://github.com/markantoine1" target={'_blank'}><b>Github</b></a>
       </main>
     </>
   )

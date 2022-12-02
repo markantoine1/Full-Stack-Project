@@ -16,9 +16,6 @@ function App() {
               Demonstração do site, enquanto a hospedagem funcionava: <a href="https://prnt.sc/j4_saIDO3YBZ" target={'_blank'}><b>Clique aqui</b></a>
               <br/>
               Demonstração de notificação: <a href="https://prnt.sc/gBLkk40_Yq9c" target={'_blank'}><b>Clique aqui</b></a>
-              <br />
-              <a id='media' href="https://www.linkedin.com/in/mark-antoine/" target={'_blank'}><b>Linkedin</b> </a>
-              <a id='media' href="https://github.com/markantoine1" target={'_blank'}><b>Github</b></a>
             </p>
         </div>
     </header>
