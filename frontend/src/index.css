@@ -28,3 +28,8 @@ a:visited {
 #sales {
   padding: 40px 10px;
 }
+a#media{
+  justify-content: center;
+  display: flex;
+  font-size: 16px;
+}

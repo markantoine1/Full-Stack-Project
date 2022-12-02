@@ -85,7 +85,6 @@ function SalesCard() {
 
                 </table>
             </div>
-
         </div>
     )
 }
